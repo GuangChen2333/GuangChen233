@@ -2,10 +2,6 @@
 
 ### 😉 欢迎来到光晨的主页~
 
-### 💬 guangchen233@163.com
-
-### 💬 Donate me: [Afdian](https://afdian.net/@GuangChen2333)
-
-### 💬 QQ: 2807956354 注明来意
+### 只写自己想写的东西，咱不接单
 
 ![Top Langs](https://github-status.msdnicrosoft.cn/api/top-langs/?username=GuangChen2333&layout=compact&hide_border=true&hide=html,css)
