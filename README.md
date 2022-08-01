@@ -6,4 +6,8 @@
 
 **😉 欢迎来到光晨的主页~**
 
-- 诶嘿☆
+**🗨 How to contact me:**
+
+- 📧 **E-Mail:** [**`guangchenworks@outlook.com`**](mailto:guangchenwors@outlook.com)
+
+- 🐤 **Twitter:** [**`@GuangChen233`**](https://twitter.com/GuangChen233)
