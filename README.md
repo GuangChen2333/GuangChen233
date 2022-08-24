@@ -11,3 +11,5 @@
 - 📧 **E-Mail:** [**`guangchenworks@outlook.com`**](mailto:guangchenwors@outlook.com)
 
 - 🐤 **Twitter:** [**`@GuangChen233`**](https://twitter.com/GuangChen233)
+
+- 📺️ **BiliBili:** [**`@Guang_Chen_`**](https://space.bilibili.com/501593345)
