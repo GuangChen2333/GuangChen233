@@ -25,6 +25,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&style=flat-square&logoColor=black)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=CSS3&style=flat-square&logoColor=white)
 ![Python3](https://img.shields.io/badge/Python3-3776AB?logo=Python&style=flat-square&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotilin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-black?style=flat-square&logo=Flask&logoColor=white)
 
 #### 🔰 Studying languages & frameworks:
