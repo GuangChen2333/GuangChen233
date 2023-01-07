@@ -12,4 +12,22 @@
 
 - 🐤 **Twitter:** [**`@GuangChen233`**](https://twitter.com/GuangChen233)
 
-- 📺️ **BiliBili:** [**`@Guang_Chen_`**](https://space.bilibili.com/501593345)
+<a href="#">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuangChen2333&count_private=true&show_icons=true&bg_color=FFFFFF&layout=compact&langs_count=6" />
+</a>
+
+- 🧭 **Gitee:** [**`@GuangChen2333`**](https://gitee.com/GuangChen2333)
+
+#### ⚡ Usage languages & frameworks:
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&style=flat-square&logoColor=white)
+![Java](https://img.shields.io/badge/Java-orange?style=flat-square&logo=OpenJDK&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&style=flat-square&logoColor=black)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=CSS3&style=flat-square&logoColor=white)
+![Python3](https://img.shields.io/badge/Python3-3776AB?logo=Python&style=flat-square&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-black?style=flat-square&logo=Flask&logoColor=white)
+
+#### 🔰 Studying languages & frameworks:
+![CSharp](https://img.shields.io/badge/CSharp-239120?style=flat-square&logo=C%20Sharp&logoColor=white)
+![Electron](https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=Electron&logoColor=white)
+![DotNet](https://img.shields.io/badge/.NET%20Framework-512BD4?style=flat-square&logo=.NET&logoColor=white)
