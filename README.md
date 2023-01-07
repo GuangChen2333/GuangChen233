@@ -32,3 +32,4 @@
 ![CSharp](https://img.shields.io/badge/CSharp-239120?style=flat-square&logo=C%20Sharp&logoColor=white)
 ![Electron](https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=Electron&logoColor=white)
 ![DotNet](https://img.shields.io/badge/.NET%20Framework-512BD4?style=flat-square&logo=.NET&logoColor=white)
+![MicroPython](https://img.shields.io/badge/MicroPython-2B2728?style=flat-square&logo=MicroPython&logoColor=white)
