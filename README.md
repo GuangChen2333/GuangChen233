@@ -21,13 +21,13 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&style=flat-square&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-orange?style=flat-square&logo=OpenJDK&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&style=flat-square&logoColor=black)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=FastAPI&logoColor=white)
 ![Electron](https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=Electron&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=CSS3&style=flat-square&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white)
 ![Python3](https://img.shields.io/badge/Python3-3776AB?logo=Python&style=flat-square&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotilin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-black?style=flat-square&logo=Flask&logoColor=white)
-
 
 #### 🔰 Studying languages & frameworks:
 ![CSharp](https://img.shields.io/badge/CSharp-239120?style=flat-square&logo=C%20Sharp&logoColor=white)
