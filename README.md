@@ -12,6 +12,8 @@
 
 - 🐤 **Twitter:** [**`@GuangChen233`**](https://twitter.com/GuangChen233)
 
+- 📺 **BiliBili:** [**`@Guang_Chen_**](https://b23.tv/ynHTbIG)
+
 <a href="#">
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuangChen2333&count_private=true&show_icons=true&bg_color=FFFFFF&layout=compact&langs_count=6" />
 </a>
