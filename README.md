@@ -12,7 +12,7 @@
 
 - 🐤 **Twitter:** [**`@GuangChen233`**](https://twitter.com/GuangChen233)
 
-- 💬 **Discord:** [**`Guang_Chen_的服务器`**](https://discord.gg/cGWNG6fFdP)
+- 💬 **Discord:** [**`Guang_Chen_'s Server`**](https://discord.gg/cGWNG6fFdP)
 
 <a href="#">
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuangChen2333&count_private=true&show_icons=true&bg_color=FFFFFF&layout=compact&langs_count=6" />
